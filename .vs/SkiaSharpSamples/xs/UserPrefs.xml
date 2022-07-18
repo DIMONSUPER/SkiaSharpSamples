@@ -1,6 +1,36 @@
-﻿<Properties StartupConfiguration="{77DA65F0-49FB-460B-93C4-6E4E0D6C20FC}|Default">
-  <MonoDevelop.Ide.ItemProperties.SkiaSharpSamples.iOS FirstBuild="True" />
-  <MonoDevelop.Ide.ItemProperties.SkiaSharpSamples FirstBuild="True" />
+﻿<Properties StartupConfiguration="{9EEC6CE7-A48F-4609-86C9-3DA7612A4071}|Default">
+  <MonoDevelop.Ide.ItemProperties.SkiaSharpSamples.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.6F2E165D-F10E-4BF0-8970-5A2FA389B314" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SkiaSharpSamples.iOS/Info.plist">
+    <Files>
+      <File FileName="SkiaSharpSamples.iOS/AppDelegate.cs" Line="21" Column="57" />
+      <File FileName="SkiaSharpSamples.iOS/iOSInitializer.cs" Line="6" Column="32" />
+      <File FileName="SkiaSharpSamples/App.xaml.cs" Line="22" Column="65" />
+      <File FileName="SkiaSharpSamples.iOS/Main.cs" Line="9" Column="1" />
+      <File FileName="SkiaSharpSamples.Android/MainActivity.cs" Line="13" Column="55" />
+      <File FileName="SkiaSharpSamples.Android/AndroidInitializer.cs" Line="1" Column="13" />
+      <File FileName="SkiaSharpSamples.iOS/Info.plist" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SkiaSharpSamples" expanded="True">
+            <Node name="SkiaSharpSamples" expanded="True">
+              <Node name="App.xaml" expanded="True" />
+            </Node>
+            <Node name="SkiaSharpSamples.Android" expanded="True" />
+            <Node name="SkiaSharpSamples.iOS" expanded="True">
+              <Node name="Info.plist" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.SkiaSharpSamples.Android FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.SkiaSharpSamples.Android FirstBuild="True" PreferredExecutionTarget="Android.nexus_6p_lollipop_5_0_-_api_21" />
 </Properties>

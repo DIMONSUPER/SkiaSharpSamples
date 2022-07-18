@@ -18,13 +18,13 @@
           "/Users/user/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "monoandroid11.0"
+          "monoandroid12.0"
         ],
         "sources": {
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "monoandroid11.0": {
+          "monoandroid12.0": {
             "projectReferences": {
               "/Users/user/Projects/SkiaSharpSamples/SkiaSharpSamples/SkiaSharpSamples.csproj": {
                 "projectPath": "/Users/user/Projects/SkiaSharpSamples/SkiaSharpSamples/SkiaSharpSamples.csproj"
@@ -34,15 +34,19 @@
         }
       },
       "frameworks": {
-        "monoandroid11.0": {
+        "monoandroid12.0": {
           "dependencies": {
+            "Prism.Unity.Forms": {
+              "target": "Package",
+              "version": "[8.1.97, )"
+            },
             "Xamarin.Essentials": {
               "target": "Package",
-              "version": "[1.6.1, )"
+              "version": "[1.7.3, )"
             },
             "Xamarin.Forms": {
               "target": "Package",
-              "version": "[5.0.0.2012, )"
+              "version": "[5.0.0.2478, )"
             }
           }
         }
@@ -88,13 +92,17 @@
               "version": "[2.0.3, )",
               "autoReferenced": true
             },
+            "Prism.Unity.Forms": {
+              "target": "Package",
+              "version": "[8.1.97, )"
+            },
             "Xamarin.Essentials": {
               "target": "Package",
-              "version": "[1.6.1, )"
+              "version": "[1.7.3, )"
             },
             "Xamarin.Forms": {
               "target": "Package",
-              "version": "[5.0.0.2012, )"
+              "version": "[5.0.0.2478, )"
             }
           },
           "imports": [

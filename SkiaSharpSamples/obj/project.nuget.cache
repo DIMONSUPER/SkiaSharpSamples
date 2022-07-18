@@ -1,14 +1,21 @@
 {
   "version": 2,
-  "dgSpecHash": "VJez3zdV86gZ4iBeGLU6JUmRf9UBSpYLfdaO/3inje3pPiv2K3VV7OkCLpriSoSwSuGPZpCGsQcgqKSwKvsJAQ==",
+  "dgSpecHash": "/Y2MOo8E0r3YfDLmA+9eQtu7uvvtftTD3CnToxpmBu0CFQaqbFgvUM4xTAP8/3giZ+Lq4RCmg7BJQylZA2ZFDw==",
   "success": true,
   "projectFilePath": "/Users/user/Projects/SkiaSharpSamples/SkiaSharpSamples/SkiaSharpSamples.csproj",
   "expectedPackageFiles": [
     "/Users/user/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "/Users/user/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",
+    "/Users/user/.nuget/packages/prism.core/8.1.97/prism.core.8.1.97.nupkg.sha512",
+    "/Users/user/.nuget/packages/prism.forms/8.1.97/prism.forms.8.1.97.nupkg.sha512",
+    "/Users/user/.nuget/packages/prism.unity.forms/8.1.97/prism.unity.forms.8.1.97.nupkg.sha512",
     "/Users/user/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
-    "/Users/user/.nuget/packages/xamarin.essentials/1.6.1/xamarin.essentials.1.6.1.nupkg.sha512",
-    "/Users/user/.nuget/packages/xamarin.forms/5.0.0.2012/xamarin.forms.5.0.0.2012.nupkg.sha512"
+    "/Users/user/.nuget/packages/system.runtime.compilerservices.unsafe/4.5.2/system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512",
+    "/Users/user/.nuget/packages/system.threading.tasks.extensions/4.5.2/system.threading.tasks.extensions.4.5.2.nupkg.sha512",
+    "/Users/user/.nuget/packages/unity.abstractions/5.11.7/unity.abstractions.5.11.7.nupkg.sha512",
+    "/Users/user/.nuget/packages/unity.container/5.11.11/unity.container.5.11.11.nupkg.sha512",
+    "/Users/user/.nuget/packages/xamarin.essentials/1.7.3/xamarin.essentials.1.7.3.nupkg.sha512",
+    "/Users/user/.nuget/packages/xamarin.forms/5.0.0.2478/xamarin.forms.5.0.0.2478.nupkg.sha512"
   ],
   "logs": []
 }
